@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "C:\\My-Projects\\Python\\Connect-To-Historian\\env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}

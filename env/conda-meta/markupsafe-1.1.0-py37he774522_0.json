@@ -1,0 +1,158 @@
+{
+  "arch": "x86_64",
+  "build": "py37he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "vc >=14.1,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\wyle.cordero\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\markupsafe-1.1.0-py37he774522_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/PKG-INFO",
+    "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/installed-files.txt",
+    "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/top_level.txt",
+    "Lib/site-packages/markupsafe/__init__.py",
+    "Lib/site-packages/markupsafe/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_compat.cpython-37.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_constants.cpython-37.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_native.cpython-37.pyc",
+    "Lib/site-packages/markupsafe/_compat.py",
+    "Lib/site-packages/markupsafe/_constants.py",
+    "Lib/site-packages/markupsafe/_native.py",
+    "Lib/site-packages/markupsafe/_speedups.c",
+    "Lib/site-packages/markupsafe/_speedups.cp37-win_amd64.pyd"
+  ],
+  "fn": "markupsafe-1.1.0-py37he774522_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\wyle.cordero\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\markupsafe-1.1.0-py37he774522_0",
+    "type": 1
+  },
+  "md5": "43e0fef4782af473e30a10c6c50d588f",
+  "name": "markupsafe",
+  "package_tarball_full_path": "C:\\Users\\wyle.cordero\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\markupsafe-1.1.0-py37he774522_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "36223c994a416aab909f48e8d810e8758128f278eb95ab150b5dbebd3cdbcd64",
+        "sha256_in_prefix": "36223c994a416aab909f48e8d810e8758128f278eb95ab150b5dbebd3cdbcd64",
+        "size_in_bytes": 4249
+      },
+      {
+        "_path": "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "f3b761dae1b325f61b0d76051e0e25ed2551ac916f7f256375b390f2c59efd9d",
+        "sha256_in_prefix": "f3b761dae1b325f61b0d76051e0e25ed2551ac916f7f256375b390f2c59efd9d",
+        "size_in_bytes": 634
+      },
+      {
+        "_path": "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "252e8795f5edc4c467a4be5edeb97d4492f9c205d03bb0ffaf41399a15e2ef1f",
+        "sha256_in_prefix": "252e8795f5edc4c467a4be5edeb97d4492f9c205d03bb0ffaf41399a15e2ef1f",
+        "size_in_bytes": 443
+      },
+      {
+        "_path": "Lib/site-packages/MarkupSafe-1.1.0-py3.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ab2d0f9637b9209bafb020637a32728430a310075c0cb2bfd9a81571ec7c67a5",
+        "sha256_in_prefix": "ab2d0f9637b9209bafb020637a32728430a310075c0cb2bfd9a81571ec7c67a5",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4f9278a52ecb471d7146a7d5df1cfe40dfc3f694a67d50c99d3adcd9c4cee11a",
+        "sha256_in_prefix": "4f9278a52ecb471d7146a7d5df1cfe40dfc3f694a67d50c99d3adcd9c4cee11a",
+        "size_in_bytes": 10164
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "f9366c55f1492c0ca03c9657997a390c0919945722a1d069b18f76ec32648bcf",
+        "sha256_in_prefix": "f9366c55f1492c0ca03c9657997a390c0919945722a1d069b18f76ec32648bcf",
+        "size_in_bytes": 10846
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/__pycache__/_compat.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "60585626fd213d27107228721d1d9fa9fe51e6d432c8a91533663c1ea3aeed53",
+        "sha256_in_prefix": "60585626fd213d27107228721d1d9fa9fe51e6d432c8a91533663c1ea3aeed53",
+        "size_in_bytes": 753
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/__pycache__/_constants.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "7f7a1781705e6bd6306b51cd315347a59a9a4fbc49dc4204bc8276abb28e2c93",
+        "sha256_in_prefix": "7f7a1781705e6bd6306b51cd315347a59a9a4fbc49dc4204bc8276abb28e2c93",
+        "size_in_bytes": 4253
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/__pycache__/_native.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "08dc25eb460bd205edd8482d63ae8cb5807a75f8a6d4cd38abc76648d1f6c5a4",
+        "sha256_in_prefix": "08dc25eb460bd205edd8482d63ae8cb5807a75f8a6d4cd38abc76648d1f6c5a4",
+        "size_in_bytes": 2105
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "de84af429105cec276f4d295cbe16a93a6654719a5081e64d06db568dd3336d4",
+        "sha256_in_prefix": "de84af429105cec276f4d295cbe16a93a6654719a5081e64d06db568dd3336d4",
+        "size_in_bytes": 596
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/_constants.py",
+        "path_type": "hardlink",
+        "sha256": "b9e133d49c5dc394ca5816e13ebe0077fd8bd8c48487bdc062261ee25ddc672e",
+        "sha256_in_prefix": "b9e133d49c5dc394ca5816e13ebe0077fd8bd8c48487bdc062261ee25ddc672e",
+        "size_in_bytes": 4728
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/_native.py",
+        "path_type": "hardlink",
+        "sha256": "7d4ae38db4572291ccfbc97d417149db1839aefff8f14d9a37df699722f491fb",
+        "sha256_in_prefix": "7d4ae38db4572291ccfbc97d417149db1839aefff8f14d9a37df699722f491fb",
+        "size_in_bytes": 1911
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/_speedups.c",
+        "path_type": "hardlink",
+        "sha256": "55f125861abda2e94711ddb0059d8c5fd03cd2be23168bec546403db3c66564d",
+        "sha256_in_prefix": "55f125861abda2e94711ddb0059d8c5fd03cd2be23168bec546403db3c66564d",
+        "size_in_bytes": 9883
+      },
+      {
+        "_path": "Lib/site-packages/markupsafe/_speedups.cp37-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "f6d53badfeba15d57c84fe8e454e694a6fdbc17885db62692b2dee36e7a33a88",
+        "sha256_in_prefix": "f6d53badfeba15d57c84fe8e454e694a6fdbc17885db62692b2dee36e7a33a88",
+        "size_in_bytes": 15360
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 29722,
+  "subdir": "win-64",
+  "timestamp": 1542378705976,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/markupsafe-1.1.0-py37he774522_0.tar.bz2",
+  "version": "1.1.0"
+}

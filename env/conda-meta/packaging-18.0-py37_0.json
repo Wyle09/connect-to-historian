@@ -1,0 +1,222 @@
+{
+  "arch": "x86_64",
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "pyparsing",
+    "python >=3.7,<3.8.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\Users\\wyle.cordero\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\packaging-18.0-py37_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/packaging-18.0.dist-info/INSTALLER",
+    "Lib/site-packages/packaging-18.0.dist-info/METADATA",
+    "Lib/site-packages/packaging-18.0.dist-info/RECORD",
+    "Lib/site-packages/packaging-18.0.dist-info/WHEEL",
+    "Lib/site-packages/packaging-18.0.dist-info/top_level.txt",
+    "Lib/site-packages/packaging/__about__.py",
+    "Lib/site-packages/packaging/__init__.py",
+    "Lib/site-packages/packaging/__pycache__/__about__.cpython-37.pyc",
+    "Lib/site-packages/packaging/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/packaging/__pycache__/_compat.cpython-37.pyc",
+    "Lib/site-packages/packaging/__pycache__/_structures.cpython-37.pyc",
+    "Lib/site-packages/packaging/__pycache__/markers.cpython-37.pyc",
+    "Lib/site-packages/packaging/__pycache__/requirements.cpython-37.pyc",
+    "Lib/site-packages/packaging/__pycache__/specifiers.cpython-37.pyc",
+    "Lib/site-packages/packaging/__pycache__/utils.cpython-37.pyc",
+    "Lib/site-packages/packaging/__pycache__/version.cpython-37.pyc",
+    "Lib/site-packages/packaging/_compat.py",
+    "Lib/site-packages/packaging/_structures.py",
+    "Lib/site-packages/packaging/markers.py",
+    "Lib/site-packages/packaging/requirements.py",
+    "Lib/site-packages/packaging/specifiers.py",
+    "Lib/site-packages/packaging/utils.py",
+    "Lib/site-packages/packaging/version.py"
+  ],
+  "fn": "packaging-18.0-py37_0.tar.bz2",
+  "license": "Apache 2.0 or BSD 2-Clause",
+  "link": {
+    "source": "C:\\Users\\wyle.cordero\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\packaging-18.0-py37_0",
+    "type": 1
+  },
+  "md5": "48ab55927d7dba76ededbf3fee2acb4d",
+  "name": "packaging",
+  "package_tarball_full_path": "C:\\Users\\wyle.cordero\\AppData\\Local\\Continuum\\anaconda3\\pkgs\\packaging-18.0-py37_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/packaging-18.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/packaging-18.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "50210cb69cc845b4426e686e67a8e03a59c28f19175077547613ec424e10390d",
+        "sha256_in_prefix": "50210cb69cc845b4426e686e67a8e03a59c28f19175077547613ec424e10390d",
+        "size_in_bytes": 6813
+      },
+      {
+        "_path": "Lib/site-packages/packaging-18.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6326401d68ac3fac6c36013149ce0e06b1329f1e8e6e8ddb51b587e107399c36",
+        "sha256_in_prefix": "6326401d68ac3fac6c36013149ce0e06b1329f1e8e6e8ddb51b587e107399c36",
+        "size_in_bytes": 1555
+      },
+      {
+        "_path": "Lib/site-packages/packaging-18.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "086e75e8c7b54c4c90aa440ca90a670da76b5a2eee8cf93cf29a1202edce9624",
+        "sha256_in_prefix": "086e75e8c7b54c4c90aa440ca90a670da76b5a2eee8cf93cf29a1202edce9624",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "Lib/site-packages/packaging-18.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "cc5747ae15a73ec973b223f8e791eeb50b2a3c1eafd0a0ad35432d52dade7c3c",
+        "sha256_in_prefix": "cc5747ae15a73ec973b223f8e791eeb50b2a3c1eafd0a0ad35432d52dade7c3c",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__about__.py",
+        "path_type": "hardlink",
+        "sha256": "987fac30812ee3c3f37586a467a63a381ccbdd39527adcf3d5f4129025e2cb7d",
+        "sha256_in_prefix": "987fac30812ee3c3f37586a467a63a381ccbdd39527adcf3d5f4129025e2cb7d",
+        "size_in_bytes": 720
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fef35a7394ebcf0b2bcdb38521b17ee5c1ea73f63668f4f60fbceb211d3a04ea",
+        "sha256_in_prefix": "fef35a7394ebcf0b2bcdb38521b17ee5c1ea73f63668f4f60fbceb211d3a04ea",
+        "size_in_bytes": 513
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/__about__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "71193ada1a4e680be455e5df2dbf4ac54a52f19dfcc89086e300fa020d53d13f",
+        "sha256_in_prefix": "71193ada1a4e680be455e5df2dbf4ac54a52f19dfcc89086e300fa020d53d13f",
+        "size_in_bytes": 652
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "58b72a42702b50255887065c621e4403762c93e0539a2a33524a61a1aeffc884",
+        "sha256_in_prefix": "58b72a42702b50255887065c621e4403762c93e0539a2a33524a61a1aeffc884",
+        "size_in_bytes": 490
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/_compat.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "6de61459e990fb635f70ae7a68fd133955a790a94efb81422f437e6c7d6c1799",
+        "sha256_in_prefix": "6de61459e990fb635f70ae7a68fd133955a790a94efb81422f437e6c7d6c1799",
+        "size_in_bytes": 942
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/_structures.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "50dd1cbf4ad35925244458b3f8271d2e498b34191b3f7cf88e40ba62212d6a18",
+        "sha256_in_prefix": "50dd1cbf4ad35925244458b3f8271d2e498b34191b3f7cf88e40ba62212d6a18",
+        "size_in_bytes": 2794
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/markers.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "d1e0ec1ec2122eb11bc97d26cf8629bef8707b9d72b17f0cded44e3539b872f2",
+        "sha256_in_prefix": "d1e0ec1ec2122eb11bc97d26cf8629bef8707b9d72b17f0cded44e3539b872f2",
+        "size_in_bytes": 8781
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/requirements.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "c740548511b10941233992ee507113129313c2fd40154182795fea4a6b7cb092",
+        "sha256_in_prefix": "c740548511b10941233992ee507113129313c2fd40154182795fea4a6b7cb092",
+        "size_in_bytes": 3785
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/specifiers.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "6eddca0ba3e9809898645409d507fb7d335690c59dee49587636ac88e5dc2ddd",
+        "sha256_in_prefix": "6eddca0ba3e9809898645409d507fb7d335690c59dee49587636ac88e5dc2ddd",
+        "size_in_bytes": 19720
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/utils.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "2e1b5667df23386a9041d6a374782112bacae4b717fd59818d398fd2b3b1b027",
+        "sha256_in_prefix": "2e1b5667df23386a9041d6a374782112bacae4b717fd59818d398fd2b3b1b027",
+        "size_in_bytes": 1388
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/version.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8b83300c3799d2f71a86fa20f0b5172377738b119777a3d2103d0fe875c14ba",
+        "sha256_in_prefix": "c8b83300c3799d2f71a86fa20f0b5172377738b119777a3d2103d0fe875c14ba",
+        "size_in_bytes": 11906
+      },
+      {
+        "_path": "Lib/site-packages/packaging/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "562fc0d2b0107876d4f9af57d2db75c909bd46a92041b0d2c73470f16954f640",
+        "sha256_in_prefix": "562fc0d2b0107876d4f9af57d2db75c909bd46a92041b0d2c73470f16954f640",
+        "size_in_bytes": 860
+      },
+      {
+        "_path": "Lib/site-packages/packaging/_structures.py",
+        "path_type": "hardlink",
+        "sha256": "0c2a4ab5beeef78fe8aa056c209413ad3c9971bdc6cfbb1219b93dbd80cc304d",
+        "sha256_in_prefix": "0c2a4ab5beeef78fe8aa056c209413ad3c9971bdc6cfbb1219b93dbd80cc304d",
+        "size_in_bytes": 1418
+      },
+      {
+        "_path": "Lib/site-packages/packaging/markers.py",
+        "path_type": "hardlink",
+        "sha256": "12782ac976de757241d1fab8c8ae555d840f08d29ac113a7cd838c8f445cb51e",
+        "sha256_in_prefix": "12782ac976de757241d1fab8c8ae555d840f08d29ac113a7cd838c8f445cb51e",
+        "size_in_bytes": 8185
+      },
+      {
+        "_path": "Lib/site-packages/packaging/requirements.py",
+        "path_type": "hardlink",
+        "sha256": "971149c27e86724905b43cc811e9cd8ffd8fc8919350c9db73b8341392dca44a",
+        "sha256_in_prefix": "971149c27e86724905b43cc811e9cd8ffd8fc8919350c9db73b8341392dca44a",
+        "size_in_bytes": 4391
+      },
+      {
+        "_path": "Lib/site-packages/packaging/specifiers.py",
+        "path_type": "hardlink",
+        "sha256": "a45a7bd7a78b60146dd1e2cdb32e9c9d60fd77230aabe65a83b6ec2db2efe05b",
+        "sha256_in_prefix": "a45a7bd7a78b60146dd1e2cdb32e9c9d60fd77230aabe65a83b6ec2db2efe05b",
+        "size_in_bytes": 28026
+      },
+      {
+        "_path": "Lib/site-packages/packaging/utils.py",
+        "path_type": "hardlink",
+        "sha256": "73da1b3a9a24d82a4a0c0a6473633999ad181674fe8edb7823a5c8e05d236222",
+        "sha256_in_prefix": "73da1b3a9a24d82a4a0c0a6473633999ad181674fe8edb7823a5c8e05d236222",
+        "size_in_bytes": 1580
+      },
+      {
+        "_path": "Lib/site-packages/packaging/version.py",
+        "path_type": "hardlink",
+        "sha256": "30a2fc9db28b3cb18fa2e23016fc12567611ccda64328e4021cb1ae8b1aa0c5f",
+        "sha256_in_prefix": "30a2fc9db28b3cb18fa2e23016fc12567611ccda64328e4021cb1ae8b1aa0c5f",
+        "size_in_bytes": 12219
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 34492,
+  "subdir": "win-64",
+  "timestamp": 1538580516155,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/packaging-18.0-py37_0.tar.bz2",
+  "version": "18.0"
+}
