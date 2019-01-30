@@ -1,0 +1,7 @@
+C:\My Projects\CSharp\ConnectToHistorian\ConnectToHistorian\bin\Debug\ConnectToHistorian.exe.config
+C:\My Projects\CSharp\ConnectToHistorian\ConnectToHistorian\bin\Debug\ConnectToHistorian.exe
+C:\My Projects\CSharp\ConnectToHistorian\ConnectToHistorian\bin\Debug\ConnectToHistorian.pdb
+C:\My Projects\CSharp\ConnectToHistorian\ConnectToHistorian\obj\Debug\ConnectToHistorian.csprojAssemblyReference.cache
+C:\My Projects\CSharp\ConnectToHistorian\ConnectToHistorian\obj\Debug\ConnectToHistorian.csproj.CoreCompileInputs.cache
+C:\My Projects\CSharp\ConnectToHistorian\ConnectToHistorian\obj\Debug\ConnectToHistorian.exe
+C:\My Projects\CSharp\ConnectToHistorian\ConnectToHistorian\obj\Debug\ConnectToHistorian.pdb
