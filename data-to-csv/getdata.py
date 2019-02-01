@@ -35,13 +35,14 @@ def query_to_df(query_file):
 def create_csv_file(dataframe, csv_file_path):
     if not dataframe.empty:
         dataframe.to_csv(get_file_name(csv_file_path), index=False)
-    return dataframe
 
 
 def main():
+    # Need the complete file path of the sql file.
     sql_file_path = "C:\\my-projects\\python\\connect-to-historian\\" \
                     "_queries\\query-widehistory.sql"
 
+    # Need the path where the csv file will be created.
     csv_file_path = "C:\\Users\\wyle.cordero\\Desktop\\"
     df = query_to_df(get_query_file(sql_file_path))
     create_csv_file(df, csv_file_path)
